@@ -1,5 +1,5 @@
 const INIT_SITES_LIST = ['bilibili.com','douyu.com','sgamer.com','hupu.com']
-const INIT_MAIN_PAGE = 'https://bbs.hupu.com/all-gambia'
+const INIT_MAIN_PAGE = 'https://www.printf520.com/hot.html'
 
 // 在安装时即设置好storage
 chrome.runtime.onInstalled.addListener(function() {
